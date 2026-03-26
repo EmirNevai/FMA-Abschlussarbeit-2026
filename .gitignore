@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
+
+# Sensible Daten (nicht im Repository)
+Bestellhistorie-anonymisiert.csv
